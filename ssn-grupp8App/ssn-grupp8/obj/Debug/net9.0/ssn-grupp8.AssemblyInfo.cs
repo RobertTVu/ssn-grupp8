@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ssn-grupp8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65df694a165bee8ba9a7c6eec868126b2121f380")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2516a92e6690e487aeeb205047b6ad624492362b")]
+>>>>>>> e60c5f5c42a51470a5b0002866e618eb53609d45
 [assembly: System.Reflection.AssemblyProductAttribute("ssn-grupp8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ssn-grupp8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

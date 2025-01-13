@@ -8,7 +8,11 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ssn_grupp8
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\yohan\source\repos\ssn-grupp8\ssn-grupp8App\ssn-grupp8\
+=======
+build_property.ProjectDir = C:\Users\denil\ssn-grupp8\ssn-grupp8App\ssn-grupp8\
+>>>>>>> e60c5f5c42a51470a5b0002866e618eb53609d45
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
