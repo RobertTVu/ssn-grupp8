@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yohan\\Source\\Repos\\ssn-grupp8\\ssn-grupp8App\\ssn-grupp8\\ssn-grupp8.csproj": {}
+    "C:\\Users\\vurob\\Git-Mapp\\ssn-grupp8\\ssn-grupp8App\\ssn-grupp8\\ssn-grupp8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yohan\\Source\\Repos\\ssn-grupp8\\ssn-grupp8App\\ssn-grupp8\\ssn-grupp8.csproj": {
+    "C:\\Users\\vurob\\Git-Mapp\\ssn-grupp8\\ssn-grupp8App\\ssn-grupp8\\ssn-grupp8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yohan\\Source\\Repos\\ssn-grupp8\\ssn-grupp8App\\ssn-grupp8\\ssn-grupp8.csproj",
+        "projectUniqueName": "C:\\Users\\vurob\\Git-Mapp\\ssn-grupp8\\ssn-grupp8App\\ssn-grupp8\\ssn-grupp8.csproj",
         "projectName": "ssn-grupp8",
-        "projectPath": "C:\\Users\\yohan\\Source\\Repos\\ssn-grupp8\\ssn-grupp8App\\ssn-grupp8\\ssn-grupp8.csproj",
-        "packagesPath": "C:\\Users\\yohan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yohan\\Source\\Repos\\ssn-grupp8\\ssn-grupp8App\\ssn-grupp8\\obj\\",
+        "projectPath": "C:\\Users\\vurob\\Git-Mapp\\ssn-grupp8\\ssn-grupp8App\\ssn-grupp8\\ssn-grupp8.csproj",
+        "packagesPath": "C:\\Users\\vurob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vurob\\Git-Mapp\\ssn-grupp8\\ssn-grupp8App\\ssn-grupp8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\yohan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vurob\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -42,7 +42,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

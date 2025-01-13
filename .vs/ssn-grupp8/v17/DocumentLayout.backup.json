@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vurob\\Git-Mapp\\ssn-grupp8\\ssn-grupp8App\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vurob\\Git-Mapp\\ssn-grupp8\\ssn-grupp8App\\ssn-grupp8\\workflows\\grupp8.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ssn-grupp8\\workflows\\grupp8.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\vurob\\Git-Mapp\\ssn-grupp8\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,19 +34,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "grupp8.yml",
-              "DocumentMoniker": "C:\\Users\\vurob\\Git-Mapp\\ssn-grupp8\\ssn-grupp8App\\ssn-grupp8\\workflows\\grupp8.yml",
-              "RelativeDocumentMoniker": "ssn-grupp8\\workflows\\grupp8.yml",
-              "ToolTip": "C:\\Users\\vurob\\Git-Mapp\\ssn-grupp8\\ssn-grupp8App\\ssn-grupp8\\workflows\\grupp8.yml",
-              "RelativeToolTip": "ssn-grupp8\\workflows\\grupp8.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-01-13T10:20:50.139Z",
-              "EditorCaption": ""
             }
           ]
         },
