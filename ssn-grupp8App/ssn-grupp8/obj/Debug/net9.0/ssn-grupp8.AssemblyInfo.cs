@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ssn-grupp8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e60c5f5c42a51470a5b0002866e618eb53609d45")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d5ec5b3d05f290b3f17034d78e086eb28fe431e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ssn-grupp8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ssn-grupp8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
