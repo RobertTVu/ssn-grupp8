@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\yohan\\source\\repos\\ssn-grupp8\\ssn-grupp8App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yohan\\source\\repos\\ssn-grupp8\\ssn-grupp8App\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yohan\\source\\repos\\ssn-grupp8\\ssn-grupp8App\\ssn-grupp8\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ssn-grupp8\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F767362F-C92F-43C0-B8FA-8E6D943102A4}|ssn-grupp8\\ssn-grupp8.csproj|c:\\users\\yohan\\source\\repos\\ssn-grupp8\\ssn-grupp8app\\ssn-grupp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F767362F-C92F-43C0-B8FA-8E6D943102A4}|ssn-grupp8\\ssn-grupp8.csproj|solutionrelative:ssn-grupp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,29 +47,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\yohan\\source\\repos\\ssn-grupp8\\ssn-grupp8App\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\yohan\\source\\repos\\ssn-grupp8\\ssn-grupp8App\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-13T08:40:23.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yohan\\source\\repos\\ssn-grupp8\\ssn-grupp8App\\ssn-grupp8\\Program.cs",
               "RelativeDocumentMoniker": "ssn-grupp8\\Program.cs",
               "ToolTip": "C:\\Users\\yohan\\source\\repos\\ssn-grupp8\\ssn-grupp8App\\ssn-grupp8\\Program.cs",
               "RelativeToolTip": "ssn-grupp8\\Program.cs",
-<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAB/AAAAAAAAAA==",
->>>>>>> e60c5f5c42a51470a5b0002866e618eb53609d45
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T08:10:03.617Z",
               "EditorCaption": ""
