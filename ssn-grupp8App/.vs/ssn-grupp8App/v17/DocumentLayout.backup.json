@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vurob\\Git-Mapp\\ssn-grupp8\\ssn-grupp8App\\",
+  "WorkspaceRootPath": "C:\\Users\\yohan\\source\\repos\\ssn-grupp8\\ssn-grupp8App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F767362F-C92F-43C0-B8FA-8E6D943102A4}|ssn-grupp8\\ssn-grupp8.csproj|c:\\users\\vurob\\git-mapp\\ssn-grupp8\\ssn-grupp8app\\ssn-grupp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F767362F-C92F-43C0-B8FA-8E6D943102A4}|ssn-grupp8\\ssn-grupp8.csproj|c:\\users\\yohan\\source\\repos\\ssn-grupp8\\ssn-grupp8app\\ssn-grupp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F767362F-C92F-43C0-B8FA-8E6D943102A4}|ssn-grupp8\\ssn-grupp8.csproj|solutionrelative:ssn-grupp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -44,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vurob\\Git-Mapp\\ssn-grupp8\\ssn-grupp8App\\ssn-grupp8\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\yohan\\source\\repos\\ssn-grupp8\\ssn-grupp8App\\ssn-grupp8\\Program.cs",
               "RelativeDocumentMoniker": "ssn-grupp8\\Program.cs",
-              "ToolTip": "C:\\Users\\vurob\\Git-Mapp\\ssn-grupp8\\ssn-grupp8App\\ssn-grupp8\\Program.cs",
+              "ToolTip": "C:\\Users\\yohan\\source\\repos\\ssn-grupp8\\ssn-grupp8App\\ssn-grupp8\\Program.cs",
               "RelativeToolTip": "ssn-grupp8\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T08:10:03.617Z",
               "EditorCaption": ""
